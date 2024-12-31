@@ -4,11 +4,6 @@ A lightweight Python utility for cloning MongoDB databases with ease. MongoMirro
 - Collection-by-collection transfer
 - Automatic connection management
 - Support for connection strings with authentication
-# Installation
-`bash
-git clone https://github.com/yourusername/mongomirror.git <br>
-cd mongomirror <br>
-pip install -r requirements.txt`
 # Requirement
 `pymongo>=4.0.0`
 ### The connection strings should include the database name, for example:
